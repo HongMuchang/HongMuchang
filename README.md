@@ -18,13 +18,10 @@
   </a>
 </p>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HongMuchang&show_icons=true&theme=vue-dark" alt="Neos21 Stats">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongMuchang&theme=vue-dark" />
-</a>
+<p align="left">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=HongMuchang&show_icons=true&theme=vue-dark" alt="Neos21 Stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongMuchang&theme=vue-dark" />
+</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HongMuchang&theme=nord&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
