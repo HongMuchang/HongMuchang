@@ -27,4 +27,4 @@
 </a>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HongMuchang&theme=dracula-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HongMuchang&theme=nord&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
