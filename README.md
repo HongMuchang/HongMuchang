@@ -19,8 +19,8 @@
 </p>
 
 <p align="left">
-  <img height="300px" src="https://github-readme-stats.vercel.app/api?username=HongMuchang&show_icons=true&theme=vue-dark" alt="Neos21 Stats" />
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongMuchang&theme=vue-dark" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=HongMuchang&show_icons=true&theme=vue-dark" alt="Neos21 Stats" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongMuchang&theme=vue-dark" />
 </p>
 
 
