@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=HongMuchang" alt="HongMuchang" />
   </a>
   <a href="https://twitter.com/HongMuchan">
-    <img height="20" src="https://img.shields.io/twitter/follow/HongMuchang?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/HongMuchan?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/HongMuchang">
     <img height="20" src="https://img.shields.io/github/followers/HongMuchang?label=follow&logo=github&style=flat" />
