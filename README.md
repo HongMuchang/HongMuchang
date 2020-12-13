@@ -10,11 +10,11 @@
   <a href="https://github.com/HongMuchang">
     <img height="20" src="https://img.shields.io/github/followers/HongMuchang?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/HongMuchang">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/HongMuchang/posts.svg" />
+  <a href="http://qiita.com/HongMuchan">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/HongMuchan/posts.svg" />
   </a>
   <//qiita.com/HongMuchang">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/HongMuchang/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/HongMuchan/contributions.svg" />
   </a>
 </p>
 
