@@ -1,14 +1,12 @@
 # Hi there 👋
 
 
-![Counter](https://profile-counter.glitch.me/HongMuchang/count.svg)　<a href='https://muchan.dev'>**muchan.dev**</a>
-
-<hr/>
+# ![Counter](https://profile-counter.glitch.me/HongMuchang/count.svg)　<a href='https://muchan.dev' target="_blank">muchan.dev</a>
 
 <div>
   <a href="https://github.com/HongMuchang/HongMuchang/">
     <img src="https://komarev.com/ghpvc/?username=HongMuchang" alt="HongMuchang" />
-  </a>  
+  </a>
   <a href="https://twitter.com/HongMuchan">
     <img height="20" src="https://img.shields.io/twitter/follow/HongMuchan?label=Twitter&logo=twitter&style=flat" />
   </a>
