@@ -3,11 +3,11 @@
 ![Counter](https://profile-counter.glitch.me/HongMuchang/count.svg)
 
 <hr/>
-<p align="left"> 
  <a href="https://github.com/HongMuchang/HongMuchang/">
     <img src="https://komarev.com/ghpvc/?username=HongMuchang" alt="HongMuchang" />
   </a>
-    
+  
+  
   <a href="https://twitter.com/HongMuchan">
     <img height="20" src="https://img.shields.io/twitter/follow/HongMuchan?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -27,13 +27,21 @@
 </p>
 
 
+
+<table border="0">
+<tr>
+<td>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HongMuchang&theme=dracula)
 
-
+</td>
+<td>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HongMuchang&theme=dracula)
 
+</td>
+</tr>
+</table>
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HongMuchang&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/HongMuchang/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HongMuchang&theme=radical&margin-w=1&margin-h=1)](https://github.com/HongMuchang/github-profile-trophy)
