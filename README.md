@@ -19,11 +19,10 @@
 </p>
 
 <p align="left">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HongMuchang&theme=solarized_dark)
   <img height="220px" src="https://github-readme-stats.vercel.app/api?username=HongMuchang&show_icons=true&theme=vue-dark" alt="Neos21 Stats" />
 </p>
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HongMuchang&theme=default)
 [![trophy](https://github-profile-trophy.vercel.app/?username=HongMuchang&theme=nord&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
