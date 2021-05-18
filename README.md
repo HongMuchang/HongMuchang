@@ -22,8 +22,7 @@
   <img height="220px" src="https://github-readme-stats.vercel.app/api?username=HongMuchang&show_icons=true&theme=vue-dark" alt="Neos21 Stats" />
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HongMuchang&theme=default)
-[![trophy](https://github-profile-trophy.vercel.app/?username=HongMuchang&theme=nord&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HongMuchang&theme=solarized_dark)[![trophy](https://github-profile-trophy.vercel.app/?username=HongMuchang&theme=nord&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p><a href="https://muchan-hongmuchang.vercel.app/"><strong>むちゃんのポートフォリオ</strong></p>
