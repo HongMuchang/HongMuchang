@@ -19,8 +19,8 @@
 </p>
 
 <p align="left">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HongMuchang&theme=solarized_dark)
   <img height="220px" src="https://github-readme-stats.vercel.app/api?username=HongMuchang&show_icons=true&theme=vue-dark" alt="Neos21 Stats" />
-  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HongMuchang&theme=vue-dark" />
 </p>
 
 
