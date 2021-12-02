@@ -20,10 +20,10 @@
 
 </br>
 <ul>
-    <li><a href="https://twitter.com/HongMuchan" target="_blank">Twitter</a></li>
-  <li><a href="http://qiita.com/HongMuchan" target="_blank">Qiita</a></li>
-  <li><a href="https://zenn.dev/hongmuchan" target="_blank">Zenn</a></li>
-  <li><a href="https://note.com/muchang0824" target="_blank">note</a></li>
+    <li><a href="https://twitter.com/HongMuchan" target="_blank" rel="noopener">Twitter</a></li>
+  <li><a href="http://qiita.com/HongMuchan" target="_blank" rel="noopener">Qiita</a></li>
+  <li><a href="https://zenn.dev/hongmuchan" target="_blank" rel="noopener">Zenn</a></li>
+  <li><a href="https://note.com/muchang0824" target="_blank" rel="noopener">note</a></li>
 </ul>
 
 
