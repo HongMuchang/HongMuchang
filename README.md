@@ -3,8 +3,6 @@
 
 # ![Counter](https://profile-counter.glitch.me/HongMuchang/count.svg)　<a href='https://muchan.dev' target="_blank">muchan.dev</a>
 
-* <p><a href="https://github.com/HongMuchang/HongMuchang/">Qiita</a></p>
-
 <div>
   <a href="https://github.com/HongMuchang/HongMuchang/">
     <img src="https://komarev.com/ghpvc/?username=HongMuchang" alt="HongMuchang" />
@@ -19,6 +17,16 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/HongMuchan/posts.svg" />
   </a>
 </div>
+
+</br>
+<ul>
+    <li><a href="https://twitter.com/HongMuchan">Twitter</a></li>
+  <li><a href="http://qiita.com/HongMuchan">Qiita</a></li>
+  <li><a href="https://zenn.dev/hongmuchan">Zenn</a></li>
+  <li><a href="https://note.com/muchang0824">note</a></li>
+</ul>
+
+
 
 </br>
 
