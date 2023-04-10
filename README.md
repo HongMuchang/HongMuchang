@@ -11,7 +11,6 @@ I'm  keen on doing web design, writing a program so I want to make someone happy
 ## SNS
 * Portfolio: [muchan.dev](https://muchan.dev)
 * Twitter: [@HongMuchan](https://twitter.com/HongMuchan)
-<!-- * Instagram: [@Muchan](https://www.instagram.com/___24muchan/) -->
 * note: [@HongMuchan](https://note.com/muchang0824)
 * GitHub: [@HongMuchang](https://github.com/HongMuchang)
 * Qiita: [@HongMuchan](https://qiita.com/HongMuchan)
