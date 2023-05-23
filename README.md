@@ -5,7 +5,7 @@ Hi! I'm Muchan.
 ## Profile
 Muchang Hong - 洪武昌
 
-I'm a Korean living in Japan, also I'm a software engineer.<br/>
+I'm a Korean living in Japan, also I'm a software engineer💻.<br/>
 I'm  keen on doing web design, writing a program so I want to make someone happy using that.
 
 ## SNS
