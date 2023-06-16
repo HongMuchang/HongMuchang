@@ -9,7 +9,6 @@ I'm a Korean living in Japan, also I'm a software engineer💻.<br/>
 I'm  keen on doing web design, writing a program so I want to make someone happy using that.
 
 ## SNS
-* Portfolio: [muchan.dev](https://muchan.dev)
 * Twitter: [@HongMuchan](https://twitter.com/HongMuchan)
 * note: [@HongMuchan](https://note.com/muchang0824)
 * GitHub: [@HongMuchang](https://github.com/HongMuchang)
